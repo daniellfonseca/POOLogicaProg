@@ -25,7 +25,7 @@ public class CalculadoraSalario {
 		System.out.println("Salário Liquido = " + descontoSalario.getCalculoSalarioLiquido());
 		System.out.println(descontoSalario);
 		System.out.println("-----------------------------");
-
+		//.teste
 	}
 
 }
